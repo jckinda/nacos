@@ -207,5 +207,6 @@ These are only part of the companies using Nacos, for reference only. If you are
 郑州山水, 知氏教育
 
 
---
-参考：https://www.cnblogs.com/zhoutuo/p/18442988
+-------
+
+参考资料：https://www.cnblogs.com/zhoutuo/p/18442988
